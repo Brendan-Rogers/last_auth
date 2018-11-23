@@ -1,2 +1,2 @@
-# last_auth
-The last authoring class of 2018 :(
+# The Last Authoring Class of 2018
+## by brendan rogers
